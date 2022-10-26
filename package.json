@@ -1,7 +1,7 @@
 {
   "name": "yts-dl",
   "description": "A CLI tool to download youtube videos in a channel or a playlist.",
-  "version": "1.0.0",
+  "version": "1.0.0-2",
   "bin": {
     "yts-dl": "./dist/index.js"
   },
