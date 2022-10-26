@@ -19,3 +19,4 @@ sauce_connect.log
 yarn.lock
 yarn-error.log
 src/
+dist/**/*.js.map
