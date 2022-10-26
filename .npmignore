@@ -20,3 +20,4 @@ yarn.lock
 yarn-error.log
 src/
 dist/**/*.js.map
+dist/*.js.map
